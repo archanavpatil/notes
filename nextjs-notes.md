@@ -1,9 +1,9 @@
-#Next JS 
-##What is next JS
+# Next JS 
+## What is next JS
 It is framework for react libs
 
-##Why?
-- Server side rendering - helps in google search, renders required things at the time of page loading
+## Why?
+- Server side rendering (Pre rendering) - helps in google search, renders required things at the time of page loading
 - File based routing 
 - Allows full stack development
 
@@ -11,4 +11,5 @@ It is framework for react libs
 npx create-next-app --ts
 
 ### Folder structure
-- Unlike react app nextJs doesn't have index.html file in public folder, Index page will be generated dynamically at server.
+- Unlike react app nextJs doesn't have index.html file in public folder, Index page will be generated dynamically at server. 
+- Pages is most important folder, whicj contains actual code.
