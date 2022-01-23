@@ -13,3 +13,8 @@
 - Install dependencies from react navigation geting started page
 - Install dependency @react-navigation/native-stack , and use enableScreen() in App.js
 - For header buttons, install react-navigation-header-buttons
+
+
+### Expo credential manager
+- Generate gredentials - expo credentials:manager 
+- Show android Credentials - expo fetch:android:hashes
